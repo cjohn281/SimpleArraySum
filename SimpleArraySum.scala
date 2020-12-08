@@ -1,6 +1,6 @@
 object Solution {
     /*
-     * Complete the simpleArraySum function below.
+     * Might as well keep this simple, right?
      */
     def simpleArraySum(ar: Array[Int]): Int = {
         return ar.sum
