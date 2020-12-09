@@ -3,7 +3,7 @@ object Solution {
      * Might as well keep this simple, right?
      */
     def simpleArraySum(ar: Array[Int]): Int = {
-        return ar.sum
+        ar.sum // refactored
     }
 
     def main(args: Array[String]): Unit = {
